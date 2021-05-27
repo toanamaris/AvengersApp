@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (5.4.3)
+  - ANActivityIndicator (1.2.0)
+  - CryptoSwift (1.4.0)
+  - Kingfisher (6.3.0)
+  - Nimble (9.2.0)
+  - Quick (4.0.0)
+  - SwiftMessages (9.0.2):
+    - SwiftMessages/App (= 9.0.2)
+  - SwiftMessages/App (9.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - ANActivityIndicator
+  - CryptoSwift
+  - Kingfisher
+  - Nimble
+  - Quick
+  - SwiftMessages
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ANActivityIndicator
+    - CryptoSwift
+    - Kingfisher
+    - Nimble
+    - Quick
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  ANActivityIndicator: 44a996931d0c554cf157b31056603b23bbdbe76a
+  CryptoSwift: 7cc902df1784de3b389a387756c7d710f197730c
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+  Nimble: 4f4a345c80b503b3ea13606a4f98405974ee4d0b
+  Quick: 6473349e43b9271a8d43839d9ba1c442ed1b7ac4
+  SwiftMessages: 77b847d1405f99046ffbd0d856bc7d73e6892686
+
+PODFILE CHECKSUM: 90b515a64e15cac49ca546150228a6c9d8361d1f
+
+COCOAPODS: 1.10.0
