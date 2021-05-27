@@ -1,5 +1,5 @@
 # AvengersApp
-Instrucstion :
+Instruction :
 1. Clone repo
 2. Navigate to folder containg repo
 3. Run `pod install`
